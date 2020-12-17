@@ -1,0 +1,19 @@
+body{
+  background-image:url('/images/gray.jpg');
+  background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+ }
+
+ .search{
+   width:60%;
+   border:none;
+   padding:15px 0px 15px 10px;
+ }
+ .form{
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+.wh{
+  color:white;
+}

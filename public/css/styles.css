@@ -1,0 +1,23 @@
+.form{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.icon{
+  padding:5px;
+border-radius:50%;
+}
+.search{
+  width:60%;
+  border:none;
+  padding:15px 0px 15px 10px;
+}
+.card {
+   margin-bottom: 20px;
+   width:550px;
+}
+body{
+  background-image:url('/images/working.jpg');
+  background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+ }
